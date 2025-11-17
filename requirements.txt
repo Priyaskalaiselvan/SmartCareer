@@ -6,3 +6,4 @@ PyPDF2
 pandas
 numpy
 graphviz
+pdfminer.six
